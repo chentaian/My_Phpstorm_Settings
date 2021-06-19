@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="手机号" />
+      <item value="isregistered" />
+      <item value="是否注册" />
+      <item value="纬度" />
+      <item value="经度" />
+      <item value="查看" />
+      <item value="案例管理" />
+      <item value="屏保" />
+      <item value="剩余天数" />
+      <item value="程序" />
+      <item value="仅限导入用户使用" />
+      <item value="禁止外部用户登录" />
+      <item value="fei'ben'ji'gou" />
+      <item value="是否允许非本机构用户登录" />
+      <item value="是否是导入账号" />
+      <item value="数据表结构" />
+      <item value="结构" />
+      <item value="借阅" />
+      <item value="慕云游" />
+      <item value="地点管理" />
+      <item value="manage" />
+      <item value="名称管理" />
+      <item value="目标客户分类" />
+      <item value="是否高亮" />
+      <item value="marked" />
+      <item value="已结束按钮文字" />
+      <item value="未开始按钮文字" />
+      <item value="进行中按钮文字" />
+      <item value="未进行中活动按钮文字" />
+      <item value="未开始活动按钮文字" />
+      <item value="进行中活动按钮文字" />
+      <item value="surplus" />
+      <item value="剩余" />
+      <item value="excess" />
+      <item value="剩余的" />
+      <item value="Remaining" />
+      <item value="库容量" />
+      <item value="容量" />
+      <item value="最后一次打卡时间" />
+      <item value="平均匹配度" />
+      <item value="打卡进度" />
+      <item value="Place " />
+      <item value="地点名称" />
+      <item value="地点" />
+      <item value="progress" />
+      <item value="progress rate" />
+      <item value="进度" />
+      <item value="mark" />
+      <item value="attendance" />
+      <item value="daily attendance" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="0cbed16f3ec441f3" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
